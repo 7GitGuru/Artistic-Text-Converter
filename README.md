@@ -1,1 +1,1 @@
-# Artistic-Text-Converter
+This Python program uses the `pyfiglet` library to convert text entered by the user into an ASCII image. The program prompts the user for text and then uses the `figlet_format` function to convert the text to an ASCII image. The resulting ASCII art representation of the input text is then displayed to the user. You can experiment with different text inputs to see them converted to ASCII images with different styles and fonts provided by `pyfiglet`.
